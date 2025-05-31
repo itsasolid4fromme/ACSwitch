@@ -1,4 +1,4 @@
-| LCD Pin | Arduino Uno/Nano Pin |
+| DS18B20 | Arduino Uno/Nano Pin |
 | VCC     | 5V                   |
 | GND     | GND                  |
 | Data    | D8                   |
