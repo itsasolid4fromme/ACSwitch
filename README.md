@@ -1,5 +1,5 @@
 # ACSwitch
-Control a 12v ac compressor with an Arduino with low shut off and high turn on
+Control a 12v ac compressor with an Arduino with low shut off and high turn on and a display that shows relay status and current temp from probe
 
 **Parts needed**
 Arduino Uno R3  
