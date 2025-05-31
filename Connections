@@ -1,0 +1,21 @@
+| DS18B20 | Arduino Uno/Nano Pin |
+| VCC     | 5V                   |
+| GND     | GND                  |
+| Data    | D8                   |
+| SCL     | A5                   |  
+4.7kΩ pull-up resistor between DATA and 5V!!    
+
+| LCD     | Arduino Uno/Nano Pin |
+| VCC     | 5V                   |
+| GND     | GND                  |
+| SDA     | A4                   |
+| SCL     | A5                   |
+
+| Relay   | Arduino Uno/Nano Pin |
+| IN1     | D9                   |
+| VCC     | 12v from battery     |
+| GND     | Arduino GND          |  
+| NO      | Compressor           |  
+| COM     | 12v From Battery     |  
+
+The second wire from the compressor is your ground, connect it where ever you can
