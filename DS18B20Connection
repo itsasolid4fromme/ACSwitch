@@ -1,6 +1,0 @@
-| DS18B20 | Arduino Uno/Nano Pin |
-| VCC     | 5V                   |
-| GND     | GND                  |
-| Data    | D8                   |
-| SCL     | A5                   |  
-4.7kΩ pull-up resistor between DATA and 5V!!    
